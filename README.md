@@ -2,9 +2,6 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules as a WordPress plugin.
 
-To start your project:<br/>
-```git clone https://github.com/GustavoGomez092/vite-wordpress-react.git```
-
 Change directory into the project folder:<br/>
 ```cd react-wp```
 
